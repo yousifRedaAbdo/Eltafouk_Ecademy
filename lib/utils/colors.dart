@@ -1,0 +1,26 @@
+import 'package:flutter/material.dart';
+
+const Color mainColor = Color(0xff3676BB);
+//const Color mainColor = Color(0xff2e9f8f);
+Color mainColorWithOpacity = const Color(0xff2e9f8f).withOpacity(0.8);
+const Color purpleColor = Color(0xff6868AD);
+const Color backgroundColor = Colors.white;
+const dividerColor = Color(0xffE2E2E2);
+const grey = Color(0xffBDBDBD);
+const greytext = Color(0xff8d8d8c);
+const greylite = Color(0xffe4e4e4);
+const errorColor = Color(0xffCF342B);
+const pinkColor = Color(0xffE96075);
+const blueColor = Color(0xff3676BB);
+const bluetest = Color(0xff023466);
+const bluetest2 = Color(0xff023466);
+const orangeColor = Color(0xffFF991F);
+const greenColor = Color(0xff01A4A5);
+const successfulColor = Color(0xff149E4B);
+const whiteGreen = Color(0xffC6EDE6);
+const foshiaColor = Color(0xffb31f61);
+const kohlyColor = Color(0xff0e2647);
+const kohlyliteColor = Color(0xff154372);
+const whitedark = Color(0xffd9d9d9);
+const Color blackColor = Colors.black;
+const Color whiteColor = Colors.white;
